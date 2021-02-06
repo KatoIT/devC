@@ -1,0 +1,10 @@
+3
+Nguyen Van A
+12000
+1
+Pham Thi B
+10000
+3
+Vu Thanh C
+54230
+2
