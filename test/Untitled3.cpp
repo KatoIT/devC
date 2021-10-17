@@ -1,9 +1,13 @@
-#include<iostream>
-#include<string.h>
-int input(int &n,unsigned int a[100] )
+#include<bits/stdc++.h>
+#include<conio.h>
+using namespace std;
+int main()
 {
-	int i;
-	for(i=0;i<n;i++) cin >> a[i];
+	for (int i = 0; i < 5; i++) {
+            for (int j = 0; j < 5; j++) {
+                cout<<"{"<<i<<", "<<j<<" }, ";
+            }
+        }
 	
 }
 

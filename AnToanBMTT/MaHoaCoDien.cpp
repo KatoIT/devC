@@ -74,6 +74,7 @@ void caesar()
 	}
 	Reset();
 }
+
 void videnereAutoKey()
 {
 	inputM();
@@ -98,6 +99,7 @@ void videnereAutoKey()
 	}
 	Reset();
 }
+
 void videnereLK()
 {
 	inputM();
